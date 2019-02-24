@@ -5,6 +5,11 @@ package com.friendsurance.mail;
  */
 public interface EmailRecipient {
 
+    /**
+     * Gets email.
+     *
+     * @return the email
+     */
     String getEmail();
 
 }

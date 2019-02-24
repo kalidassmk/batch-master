@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="96e84635-c180-45fc-83f5-9df5abb67608" name="Default Changelist" comment="" />
+    <list default="true" id="22782481-866c-469f-8d80-c3be0734bd41" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -9,164 +9,349 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/batch$All_in_batch__3_.ic" NAME="All in batch (3) Coverage Results" MODIFIED="1549355105627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/batch$SchedulerserviceApplication.ic" NAME="SchedulerserviceApplication Coverage Results" MODIFIED="1549169784117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.friendsurance.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/batch$All_in_batch__1_.ic" NAME="All in batch (1) Coverage Results" MODIFIED="1549338299238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/batch$All_in_batch__2_.ic" NAME="All in batch (2) Coverage Results" MODIFIED="1549354834805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/batch$All_in_batch.ic" NAME="All in batch Coverage Results" MODIFIED="1549354538193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="231" />
+  </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="-1996428278">
+    <session id="856343058">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="6" />
+          <entry key="class" value="31" />
+          <entry key="java" value="333" />
+          <entry key="log" value="18" />
+          <entry key="properties" value="8" />
+          <entry key="sql" value="5" />
+          <entry key="xml" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="6" />
+          <entry key="CLASS" value="31" />
+          <entry key="JAVA" value="333" />
+          <entry key="PLAIN_TEXT" value="18" />
+          <entry key="Properties" value="8" />
+          <entry key="SQL" value="5" />
+          <entry key="XML" value="15" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="class" value="1" />
+          <entry key="java" value="8636" />
+          <entry key="log" value="1" />
+          <entry key="properties" value="46" />
+          <entry key="sql" value="1203" />
+          <entry key="txt" value="15" />
+          <entry key="xml" value="235" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="JAVA" value="8636" />
+          <entry key="PLAIN_TEXT" value="16" />
+          <entry key="Properties" value="46" />
+          <entry key="SQL" value="1203" />
+          <entry key="XML" value="235" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/friendsurance/processing/ItemProcessing.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/friendsurance/reader/impl/UserItemReader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/friendsurance/mail/EmailRecipient.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+            <state relative-caret-position="476">
+              <caret line="42" selection-start-line="42" selection-end-line="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/friendsurance/backend/User.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/friendsurance/repository/impl/SchedulerRepoImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            <state relative-caret-position="454">
+              <caret line="79" column="47" selection-start-line="55" selection-start-column="43" selection-end-line="79" selection-end-column="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/friendsurance/mail/EmailService.java">
+        <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="14" lean-forward="true" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+            <state relative-caret-position="306">
+              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/friendsurance/processing/ItemWriter.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/friendsurance/processing/ItemProcessing.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+            <state relative-caret-position="1207">
+              <caret line="82" selection-start-line="82" selection-end-line="82" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/friendsurance/processing/ItemReader.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/friendsurance/service/impl/SchedulerServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+            <state relative-caret-position="1836">
+              <caret line="129" column="57" selection-start-line="129" selection-start-column="29" selection-end-line="129" selection-end-column="57" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/friendsurance/reader/ItemReader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/friendsurance/processing/UserItemProcessorTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1292">
+              <caret line="97" selection-start-line="97" selection-end-line="97" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/friendsurance/writer/impl/UserItemWriter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/friendsurance/processing/UserItemProcessor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="38" selection-start-line="38" selection-end-line="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="20" />
-    <option name="y" value="5" />
-    <option name="width" value="1400" />
-    <option name="height" value="780" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="TestMe with JUnit5 &amp; Mockito" />
+        <option value="JUnit4 Test Class" />
+        <option value="TestMe with JUnit4 &amp; Mockito" />
+      </list>
+    </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ItemWriter</find>
+      <find>QUERY_FIND_STUDENTS</find>
+      <find>ItemReader</find>
+      <find>spring.jpa.hibernate.ddl-auto</find>
+      <find>&quot;</find>
+      <find>mailType</find>
+      <find>FREQUENCYVALUES</find>
+      <find>frequencyValues</find>
+      <find>EmailService</find>
+      <find>System.out.println</find>
+      <find>repo</find>
+      <find>spring-boot-starter-test</find>
+      <find>cancellableSchedule</find>
+      <find>//Generated with love by TestMe :) Please report issues and submit feature requests at: http://weirddev.com/forum#!/testme</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>'</replace>
+      <replace>'LOGGER.info</replace>
+      <replace>LOGGER.info</replace>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/friendsurance/SchedulerserviceApplication.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/friendsurance/processing/BatchConfiguration.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/friendsurance/config/DatabaseToCsvFileJobConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/friendsurance/actor/JobQueueActor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/friendsurance/actor/JobActor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/friendsurance/processing/UserItemWriter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/friendsurance/processing/ItemWriter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/friendsurance/processing/ItemReader.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/friendsurance/processing/UserItemReader.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/friendsurance/processing/JobWorker.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/friendsurance/writer/ItemReader.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/friendsurance/reader/ItemWriter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/friendsurance/vo/Student.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/friendsurance/config/DatabaseJobConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/friendsurance/vo/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/friendsurance/repository/SchedulerRepo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/friendsurance/repository/impl/UserRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/friendsurance/container/SchedulerContainerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/friendsurance/actor/SchedulerActorTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/friendsurance/repository/impl/SchedulerRepoImplTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/friendsurance/util/ScheduleHelper.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/friendsurance/service/impl/SchedulerServiceImplTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/friendsurance/mail/EmailServiceImplTest.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/logback.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/friendsurance/actor/SchedulerActorTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/friendsurance/container/SchedulerContainerTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/friendsurance/controller/SchedulerControllerTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/friendsurance/exception/AppExceptionTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/friendsurance/util/ScheduleHelperTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/friendsurance/writer/impl/UserItemWriterTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/friendsurance/reader/ItemReader.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/friendsurance/writer/ItemWriter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/friendsurance/mail/EmailService.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/friendsurance/reader/impl/UserItemReaderTest.java" />
+        <option value="$PROJECT_DIR$/log/app-message.log" />
+        <option value="$PROJECT_DIR$/src/main/java/com/friendsurance/vo/UserStatus.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/friendsurance/writer/impl/UserItemWriter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/friendsurance/processing/ItemProcessing.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/friendsurance/actor/SchedulerActor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/friendsurance/container/SchedulerContainer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/friendsurance/controller/SchedulerController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/friendsurance/mail/EmailServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/friendsurance/reader/impl/UserItemReader.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/friendsurance/dto/Schedule.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/friendsurance/service/impl/SchedulerServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/data.sql" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/friendsurance/processing/UserItemProcessor.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/friendsurance/processing/UserItemProcessorTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/friendsurance/repository/impl/SchedulerRepoImpl.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="batch" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1940" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="batch" type="b2602c69:ProjectViewProjectNode" />
-              <item name="batch-master" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="batch" type="b2602c69:ProjectViewProjectNode" />
-              <item name="batch-master" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="batch" type="b2602c69:ProjectViewProjectNode" />
-              <item name="batch-master" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="batch" type="b2602c69:ProjectViewProjectNode" />
-              <item name="batch-master" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="batch" type="b2602c69:ProjectViewProjectNode" />
-              <item name="batch-master" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="friendsurance" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="batch" type="b2602c69:ProjectViewProjectNode" />
-              <item name="batch-master" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="friendsurance" type="462c0819:PsiDirectoryNode" />
-              <item name="backend" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="batch" type="b2602c69:ProjectViewProjectNode" />
-              <item name="batch-master" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="friendsurance" type="462c0819:PsiDirectoryNode" />
-              <item name="mail" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="batch" type="b2602c69:ProjectViewProjectNode" />
-              <item name="batch-master" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="friendsurance" type="462c0819:PsiDirectoryNode" />
-              <item name="processing" type="462c0819:PsiDirectoryNode" />
+              <item name="batch" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549356562033" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.friendsurance.actor" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.friendsurance.writer" />
+      <recent name="com.friendsurance.processing" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\work\batch\src\test" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -180,80 +365,487 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="JUnit.All in batch (3)">
+    <configuration name="All in batch (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="batch" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in batch (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="batch" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in batch (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="batch" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in batch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="batch" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserItemProcessorTest.doProcess" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="batch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.friendsurance.processing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.friendsurance.processing" />
+      <option name="MAIN_CLASS_NAME" value="com.friendsurance.processing.UserItemProcessorTest" />
+      <option name="METHOD_NAME" value="doProcess" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.All in batch" />
+      <item itemvalue="JUnit.All in batch (1)" />
+      <item itemvalue="JUnit.UserItemProcessorTest.doProcess" />
+      <item itemvalue="JUnit.All in batch (2)" />
+      <item itemvalue="JUnit.All in batch (3)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in batch (3)" />
+        <item itemvalue="JUnit.All in batch (2)" />
+        <item itemvalue="JUnit.UserItemProcessorTest.doProcess" />
+        <item itemvalue="JUnit.All in batch (1)" />
+        <item itemvalue="JUnit.All in batch" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="96e84635-c180-45fc-83f5-9df5abb67608" name="Default Changelist" comment="" />
-      <created>1549029811756</created>
+      <changelist id="22782481-866c-469f-8d80-c3be0734bd41" name="Default Changelist" comment="" />
+      <created>1549031504613</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1549029811756</updated>
+      <updated>1549031504613</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1549355239012</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1549355239012</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="All_in_batch_(1) - 2019.02.05 at 13h 04m 14s.xml">
+      <configuration name="All in batch (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_batch - 2019.02.05 at 16h 15m 45s.xml">
+      <configuration name="All in batch" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_batch_(1) - 2019.02.05 at 16h 16m 36s.xml">
+      <configuration name="All in batch (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_batch_(1) - 2019.02.05 at 16h 17m 16s.xml">
+      <configuration name="All in batch (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserItemProcessorTest_doProcess - 2019.02.05 at 16h 17m 57s.xml">
+      <configuration name="UserItemProcessorTest.doProcess" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserItemProcessorTest_doProcess - 2019.02.05 at 16h 18m 47s.xml">
+      <configuration name="UserItemProcessorTest.doProcess" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserItemProcessorTest_doProcess - 2019.02.05 at 16h 19m 13s.xml">
+      <configuration name="UserItemProcessorTest.doProcess" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_batch_(2) - 2019.02.05 at 16h 20m 42s.xml">
+      <configuration name="All in batch (2)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_batch_(2) - 2019.02.05 at 16h 24m 56s.xml">
+      <configuration name="All in batch (2)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_batch_(3) - 2019.02.05 at 16h 25m 13s.xml">
+      <configuration name="All in batch (3)" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-8" y="-8" width="1552" height="840" extended-state="0" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="simpleUML" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17785235" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Sequence" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="simpleUML" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.32841823" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Sequence" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.3281471" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.3281471" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.3281471" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.49222064" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.114893615" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.427157" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="right" id="Coverage" order="0" side_tool="true" weight="0.32908848" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" weight="0.32908848" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="simpleUML" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.32372653" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Sequence" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.3281471" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.3281471" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.3281471" />
+      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.49222064" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.114893615" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.427157" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="right" id="Coverage" order="0" side_tool="true" weight="0.32908848" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" weight="0.32908848" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/friendsurance/processing/UserItemProcessorTest.java</url>
+          <line>97</line>
+          <properties />
+          <option name="timeStamp" value="209" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/friendsurance/processing/ItemProcessing.java</url>
+          <line>80</line>
+          <properties />
+          <option name="timeStamp" value="210" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/friendsurance/processing/ItemProcessing.java</url>
+          <line>82</line>
+          <properties />
+          <option name="timeStamp" value="211" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/friendsurance/processing/UserItemProcessorTest.java</url>
+          <line>96</line>
+          <properties />
+          <option name="timeStamp" value="212" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/friendsurance/reader/impl/UserItemReader.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="213" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>databaseReader.setRowMapper(new BeanPropertyRowMapper(User.class));
+        databaseReader.open(new ExecutionContext());</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>writer.write(userStatusList).exceptionally(e -&gt; {
+                                       LOGGER.error(&quot;Update UserStatus into DB has Completed exceptionally....&quot;,e);
+                                        return Boolean.FALSE;
+                                   }).toCompletableFuture().get()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>writer.write(userStatusList).exceptionally(e -&gt; {
+                                       LOGGER.error(&quot;Update UserStatus into DB has Completed exceptionally....&quot;,e);
+                                        return Boolean.FALSE;
+                                   })</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>emailService.sendMail(userStatus.getEmail(), EmailService.MailType.valueOf(userStatus.getMailType()))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>sendMail(userStatusList).thenCompose(finalUserList -&gt; {
+                               try {
+                                   return writer.write(userStatusList).exceptionally(e -&gt; {
+                                       LOGGER.error(&quot;Update UserStatus into DB has Completed exceptionally....&quot;,e);
+                                        return Boolean.FALSE;
+                                   });
+                               } catch (AppException e) {
+                                   e.printStackTrace();
+                                   LOGGER.error(&quot;Completed exceptionally....&quot;,e);
+                               }
+                               return null;
+                           })</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>process(user).thenCompose(userStatusList -&gt; {
+                        try {
+                           return sendMail(userStatusList).thenCompose(finalUserList -&gt; {
+                               try {
+                                   return writer.write(userStatusList).exceptionally(e -&gt; {
+                                       LOGGER.error(&quot;Update UserStatus into DB has Completed exceptionally....&quot;,e);
+                                        return Boolean.FALSE;
+                                   });
+                               } catch (AppException e) {
+                                   e.printStackTrace();
+                                   LOGGER.error(&quot;Completed exceptionally....&quot;,e);
+                               }
+                               return null;
+                           });
+                        } catch (AppException e) {
+                            e.printStackTrace();
+                            LOGGER.error(&quot;Completed exceptionally....&quot;,e);
+                        }
+                        return null;
+                    })</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>userAnonymizedIdReader()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>userAnonymizedIdReader().read()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>databaseItemReader().read()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>databaseReader.</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/friendsurance/processing/ItemWriter.java">
+    <entry file="file://$PROJECT_DIR$/LOG_PATH_IS_UNDEFINED/app-message.log" />
+    <entry file="file://$PROJECT_DIR$/app-message.log" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/friendsurance/container/SchedulerContainerTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/friendsurance/vo/User.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/friendsurance/actor/SchedulerActorTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/friendsurance/actor/SchedulerActor.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/friendsurance/model/JobHistory.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/friendsurance/repository/impl/SchedulerRepoImplTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/friendsurance/service/impl/SchedulerServiceImplTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/friendsurance/mail/EmailServiceImplTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/concurrent/ScheduledFuture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="46" column="17" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/friendsurance/container/SchedulerContainerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="77" selection-start-line="77" selection-end-line="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/friendsurance/controller/SchedulerControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="35" column="44" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/friendsurance/exception/AppException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/friendsurance/exception/AppExceptionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="39" column="60" selection-start-line="39" selection-start-column="60" selection-end-line="39" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/friendsurance/writer/impl/UserItemWriterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/friendsurance/vo/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/friendsurance/util/ScheduleHelperTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11-sources.jar!/org/junit/runners/BlockJUnit4ClassRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="71" selection-start-line="71" selection-end-line="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11-sources.jar!/org/junit/runners/ParentRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="230" column="10" lean-forward="true" selection-start-line="230" selection-start-column="10" selection-end-line="230" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/friendsurance/actor/SchedulerActorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="489">
+          <caret line="51" column="37" selection-start-line="51" selection-start-column="29" selection-end-line="51" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/concurrent/CompletionStage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="599" column="34" selection-start-line="599" selection-start-column="34" selection-end-line="599" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/friendsurance/reader/impl/UserItemReaderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="38" column="77" selection-start-line="38" selection-start-column="77" selection-end-line="38" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/friendsurance/SchedulerserviceApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/friendsurance/processing/ItemReader.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/logback.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        <state relative-caret-position="49">
+          <caret line="7" column="41" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/friendsurance/processing/ItemProcessing.java">
+    <entry file="file://$PROJECT_DIR$/log/app-message.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/friendsurance/vo/UserStatus.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        <state relative-caret-position="62">
+          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/friendsurance/writer/ItemWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/friendsurance/actor/SchedulerActor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/friendsurance/mail/EmailService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="14" lean-forward="true" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+        <state relative-caret-position="221">
+          <caret line="13" column="41" lean-forward="true" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/friendsurance/container/SchedulerContainer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-450">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -264,19 +856,228 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/friendsurance/backend/User.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/friendsurance/mail/EmailServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        <state relative-caret-position="475">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/sql/Timestamp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="167" column="28" selection-start-line="167" selection-start-column="28" selection-end-line="167" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/4.3.6.RELEASE/spring-jdbc-4.3.6.RELEASE.jar!/org/springframework/jdbc/core/JdbcTemplate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="465" selection-start-line="465" selection-end-line="465" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/4.3.6.RELEASE/spring-jdbc-4.3.6.RELEASE.jar!/org/springframework/jdbc/core/RowMapperResultSetExtractor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/friendsurance/util/ScheduleHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="26" column="40" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/friendsurance/dto/Schedule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="274" column="52" selection-start-line="274" selection-start-column="52" selection-end-line="274" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/data.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="113" selection-start-line="2" selection-start-column="113" selection-end-line="2" selection-end-column="113" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/friendsurance/controller/SchedulerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/friendsurance/reader/impl/UserItemReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/friendsurance/processing/ItemProcessing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1207">
+          <caret line="82" selection-start-line="82" selection-end-line="82" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/friendsurance/service/impl/SchedulerServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1836">
+          <caret line="129" column="57" selection-start-line="129" selection-start-column="29" selection-end-line="129" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/friendsurance/reader/ItemReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/friendsurance/processing/UserItemProcessorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1292">
+          <caret line="97" selection-start-line="97" selection-end-line="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/friendsurance/writer/impl/UserItemWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/friendsurance/processing/UserItemProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/friendsurance/repository/impl/SchedulerRepoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="454">
+          <caret line="79" column="47" selection-start-line="55" selection-start-column="43" selection-end-line="79" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>batch</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
